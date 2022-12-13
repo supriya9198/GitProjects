@@ -17,6 +17,9 @@ public class Base {
 			driver.get("https://neostox.com/");
 			
 			
+			Reporter.log("Hello");
+			
+			Reporter.log("rutuja", true);
 			Reporter.log("launchng browser", true);
 			Thread.sleep(500);
 			
