@@ -21,6 +21,7 @@ public class Base {
 			
 			Reporter.log("rutuja", true);
 			Reporter.log("Chetan", true);
+			Reporter.log("Supriya Deshmukh", true);
 			Reporter.log("launchng browser", true);
 			Thread.sleep(500);
 			
