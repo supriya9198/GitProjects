@@ -20,6 +20,7 @@ public class Base {
 			Reporter.log("Hello");
 			
 			Reporter.log("rutuja", true);
+			Reporter.log("Chetan", true);
 			Reporter.log("launchng browser", true);
 			Thread.sleep(500);
 			
