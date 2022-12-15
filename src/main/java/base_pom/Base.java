@@ -18,11 +18,7 @@ public class Base {
 			
 			
 			Reporter.log("Hello");
-			
-			
 			Reporter.log("Hello how r you");
-			
-			
 			Reporter.log("rutuja", true);
 			Reporter.log("Chetan", true);
 			Reporter.log("Supriya Deshmukh", true);
